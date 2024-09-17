@@ -1,6 +1,6 @@
 
 TITLE: 
-Hydrogen - Responsive Free HTML5 template
+MIMMIMME - Responsive Free HTML5 template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
